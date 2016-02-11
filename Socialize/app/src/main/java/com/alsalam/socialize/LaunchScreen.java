@@ -11,6 +11,6 @@ public class LaunchScreen extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         this.requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_launch_screen);
-        //jjjjjjj 
+        //jjjjjjj
     }
 }
